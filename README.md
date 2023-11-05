@@ -66,4 +66,6 @@ akan ada output seperti ini
   `
   Data: 0xf401af0558f9814d8ff52b15904bc76fcde0d4b694e5f01b5ffeab025bab6edc168422a1164d45cf4a9d58653ff3be4d4866072cb086a41ad80e13946aa8767cd9077e60115a072cb086a41ad80e13946aa8767cd9077e60115a86b45006fffc948a0f00aa32346c2e34bfc0e17355bac46a112fe1df3d3d30b2b2aff5fe39e0a1ba7e4791c062015da00baa85b394ab485d815ea7036694fbe5e73d4008ff68fc5afb219c62f778d94a1e5e7eda2b6db32c76dc9d7833c8378d
 `
-pergi ke metamask kirim ke address tersebut
+
+pergi ke metamask kirim ke address tersebut 
+note : `tambahkan juga hex-data agar tidak terjadi kegagalan`
